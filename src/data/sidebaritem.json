@@ -1,0 +1,179 @@
+[
+    {
+        "title": "Dashboard",
+        "icon": "bi-pentagon",
+        "childrens": [
+            {
+                "title": "Analystics",
+                "icon": "bi-circle",
+                "path": "/"
+            },
+            {
+                "title": "eCommerce",
+                "icon": "bi-circle",
+                "path": "/about"
+            },
+            {
+                "title": "CRM",
+                "icon": "bi-circle",
+                "path":"/crm"
+            }
+        ]
+    },
+    {
+        "title": "Email",
+        "icon": "bi-envelope",
+        "childrens": [
+            {
+                "title": "Login",
+                "path": "/login"
+            },
+            {
+                "title": "Register",
+                "path": "/register"
+            },
+            {
+                "title": "Forgot Password",
+                "path": "/forgot-password"
+            },
+            {
+                "title": "Reset Password",
+                "path": "/reset-password"
+            }
+        ]
+    },
+    {
+        "title": "Chat",
+        "icon": "bi-chat-left-text",
+        "path": "/chat"
+    },
+    {
+        "title": "Calender",
+        "icon": "bi-calendar-check",
+        "path":"/calender"
+    },
+    {
+        "title": "Invoice",
+        "icon": "bi-file-earmark",
+        "childrens": [
+            {
+                "title": "List",
+                "icon": "bi-circle",
+                "path": "/list"
+            },
+            {
+                "title": "Preview",
+                "icon": "bi-circle",
+                "path": "/history"   
+            },
+            {
+                "title": "Edit",
+                "icon": "bi-circle",
+                "path": "/edit"   
+            },
+            {
+                "title": "Add",
+                "icon": "bi-circle",
+                "path": "/add"   
+            }
+        ]
+    },
+    {
+        "title": "User",
+        "icon": "bi-person",
+        "childrens": [
+            {
+                "title": "List",
+                "icon": "bi-circle",
+                "path": "/list"
+            },
+            {
+                "title": "View",
+                "icon": "bi-circle",
+                "path": "/view"   
+            }
+        ]
+    },
+    {
+        "title": "Pages",
+        "icon": "bi-file-earmark",
+        "childrens": [
+            {
+                "title": "Authentication",
+                "icon": "bi-circle",
+                "path": "/search"
+            },
+            {
+                "title": "Help",
+                "icon":"bi-circle",
+                "path": "/help"   
+            },
+            {
+                "title": "Center",
+                "icon":"bi-circle",
+                "path": "/center"   
+            },
+            {
+                "title": "User Profile",
+                "icon":"bi-circle",
+                "path": "/user"   
+            },
+            {
+                "title": "Account",
+                "icon":"bi-circle",
+                "path": "/account"   
+            },
+            {
+                "title": "Settings",
+                "icon":"bi-circle",
+                "path": "/settings"   
+            },
+            {
+                "title": "Pricing",
+                "icon":"bi-circle",
+                "path": "/pricing"   
+            },
+            {
+                "title": "FAQ",
+                "icon":"bi-circle",
+                "path": "/faq"   
+            },
+            {
+                "title": "Miscellaneous",
+                "icon":"bi-circle",
+                "childrens": [
+                    {
+                        "title":"Comming Soon",
+                        "path":"/"
+                    },
+                    {
+                        "title":"Under Maintenance",
+                        "path":"/"
+                    },
+                    {
+                        "title":"Page Not Found-404",
+                        "path":"/"
+                    },
+                    {
+                        "title":"Not Authorized-401",
+                        "path":"/"
+                    },
+                    {
+                        "title":"Server Error-500",
+                        "path":"/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Support",
+        "icon": "bi-question-circle-fill",
+        "path": "/support"
+    },
+    {
+        "title": "Report Bug",
+        "icon": "bi-bug",
+        "path": "/report-bug"
+    }
+]
